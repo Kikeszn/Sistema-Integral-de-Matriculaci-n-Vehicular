@@ -45,7 +45,6 @@ Este proyecto es una **simulación** en C de un sistema de matriculación vehicu
 
 ## Instalación
 
-```bash
 # 1. Clonar el repositorio
 git clone https://github.com/Kikeszn/Sistema-Integral-de-Matriculacion-Vehicular.git
 
