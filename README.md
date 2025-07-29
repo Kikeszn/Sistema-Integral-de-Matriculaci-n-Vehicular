@@ -54,3 +54,24 @@ cd Sistema-Integral-de-Matriculacion-Vehicular
 
 # 3. Compilar todos los módulos
 gcc main.c login.c matricula.c registrar_vehiculos_propietario.c revision_vehicular.c -o matriculacion
+
+## Uso
+
+# Ejecutar la aplicación
+./matriculacion
+
+- Al iniciar, se muestra un menú con las siguientes opciones:
+
+- 1.Iniciar sesión
+
+- 2.Registrar propietario y vehículo
+
+- 3.Realizar revisión vehicular
+
+- 4.Calcular y generar matrícula
+
+- 5.Salir
+
+Sigue las instrucciones en pantalla para navegar y completar cada operación.
+
+
