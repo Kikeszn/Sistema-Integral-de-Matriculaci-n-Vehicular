@@ -79,10 +79,7 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 
 ## Estructura del programa
 
-├── main.c
-├── login.c
-├── login.h
-├── matricula.c
+├── main.c├── login.c├── login.h├── matricula.c
 ├── matricula.h
 ├── registrar_vehiculos_propietario.c
 ├── registrar_vehiculos_propietario.h
