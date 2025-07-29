@@ -12,9 +12,9 @@ Simulación de un sistema para registrar, verificar y matricular vehículos en C
 2. [Requisitos](#requisitos)  
 3. [Instalación](#instalación)  
 4. [Uso](#uso)  
-5. [Estructura del Proyecto](#estructura-del-proyecto)  
-6. [Características Principales](#características-principales)
-7. [Autores / Contactos](#autores--contactos)
+5. [Estructura del programa](#estructura-del-programa)  
+6. [Caracteristicas Principales](#caracteristicas-principales)  
+7. [Autores/Contactos](#autorescontactos)
 
 ---
 
