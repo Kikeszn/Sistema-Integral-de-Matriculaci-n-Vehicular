@@ -77,4 +77,43 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 
 ---
 
+## Estructura del programa
+
+├── main.c
+├── login.c
+├── login.h
+├── matricula.c
+├── matricula.h
+├── registrar_vehiculos_propietario.c
+├── registrar_vehiculos_propietario.h
+├── revision_vehicular.c
+├── Revision_Vehicular.h
+├── usuarios.txt
+├── comprobante.txt       # Generado tras matriculación
+├── LICENSE
+└── README.md
+
+--main.c: Punto de entrada y menú principal.
+
+--login.*: Gestión de usuarios y autenticación.
+
+--matricula.*: Cálculo de tarifas y generación de matrícula.
+
+--registrar_vehiculos_propietario.*: Almacenamiento de datos de propietarios y vehículos.
+
+--revision_vehicular.*: Funciones de inspección técnica.
+
+--usuarios.txt: Usuarios de prueba (formato: usuario,contraseña).
+
+--comprobante.txt: Salida del comprobante de matrícula.
+
+## Caracteristicas Principales
+-
+-- MODULARIDAD: Codigo organizado en modulos organizados (cabeceras y fuentes .c/.h)
+-- VALIDACION DE DATOS: Comprueba la lingitud de placa, entradas binarias, longitud de DNI, etc.
+-- PERSISTENCIA SIMPLE: Lectura/escritura en archivos de texto .txt
+-- GENERACIÓN DE INFORMES: Comprobantes de matricula impreso en la consola y en archivo.
+-- EXTENSIBLE: Facil de adaptar recargos, tarifas y criterios de revisión.
+-
+
 
