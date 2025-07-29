@@ -127,5 +127,14 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 ---
 
 ## Autores/COntactos
-- Kikeszn
+- Enrique Betancourt (Kikeszn)
 - Github: https://github.com/Kikeszn
+
+- Emmanuel Encalada (naaairol)
+- Guthub: https://github.com/naaairol
+
+- Eduardo Fogacho (edufgch0428)
+- Github: https://github.com/edufgch0428
+
+- Bryan Jimenez ()
+- Github: 
