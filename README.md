@@ -107,13 +107,15 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 
 --comprobante.txt: Salida del comprobante de matrícula.
 
+---
+
 ## Caracteristicas Principales
--
+
 -- MODULARIDAD: Codigo organizado en modulos organizados (cabeceras y fuentes .c/.h)
 -- VALIDACION DE DATOS: Comprueba la lingitud de placa, entradas binarias, longitud de DNI, etc.
 -- PERSISTENCIA SIMPLE: Lectura/escritura en archivos de texto .txt
 -- GENERACIÓN DE INFORMES: Comprobantes de matricula impreso en la consola y en archivo.
 -- EXTENSIBLE: Facil de adaptar recargos, tarifas y criterios de revisión.
--
 
+---
 
