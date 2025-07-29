@@ -40,13 +40,13 @@ Este proyecto es una **simulación** en C de un sistema de matriculación vehicu
 
 ## Instalación
 
-# 1. Clonar el repositorio
+## 1. Clonar el repositorio ##
 git clone https://github.com/Kikeszn/Sistema-Integral-de-Matriculacion-Vehicular.git
 
-# 2. Entrar al directorio
+## 2. Entrar al directorio ##
 cd Sistema-Integral-de-Matriculacion-Vehicular
 
-# 3. Compilar todos los módulos
+## 3. Compilar todos los módulos ##
 gcc main.c login.c matricula.c registrar_vehiculos_propietario.c revision_vehicular.c -o matriculacion
 
 ---
@@ -138,3 +138,5 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 
 - Bryan Jimenez ()
 - Github: 
+
+---
