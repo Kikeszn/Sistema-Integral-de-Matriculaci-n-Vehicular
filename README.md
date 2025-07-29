@@ -13,13 +13,8 @@ Simulación de un sistema para registrar, verificar y matricular vehículos en C
 3. [Instalación](#instalación)  
 4. [Uso](#uso)  
 5. [Estructura del Proyecto](#estructura-del-proyecto)  
-6. [Características Principales](#características-principales)  
-7. [Configuración](#configuración)  
-8. [Ejemplos de Ejecución](#ejemplos-de-ejecución)  
-9. [Contribución](#contribución)  
-10. [Historial de Versiones](#historial-de-versiones)  
-11. [Licencia](#licencia)  
-12. [Autor / Contacto](#autor--contacto)
+6. [Características Principales](#características-principales)
+7. [Autores / Contactos](#autores--contactos)
 
 ---
 
@@ -123,11 +118,14 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 
 ## Caracteristicas Principales
 
--- MODULARIDAD: Codigo organizado en modulos organizados (cabeceras y fuentes .c/.h)
--- VALIDACION DE DATOS: Comprueba la lingitud de placa, entradas binarias, longitud de DNI, etc.
--- PERSISTENCIA SIMPLE: Lectura/escritura en archivos de texto .txt
--- GENERACIÓN DE INFORMES: Comprobantes de matricula impreso en la consola y en archivo.
--- EXTENSIBLE: Facil de adaptar recargos, tarifas y criterios de revisión.
+- MODULARIDAD: Codigo organizado en modulos organizados (cabeceras y fuentes .c/.h)
+- VALIDACION DE DATOS: Comprueba la lingitud de placa, entradas binarias, longitud de DNI, etc.
+- PERSISTENCIA SIMPLE: Lectura/escritura en archivos de texto .txt
+- GENERACIÓN DE INFORMES: Comprobantes de matricula impreso en la consola y en archivo.
+- EXTENSIBLE: Facil de adaptar recargos, tarifas y criterios de revisión.
 
 ---
 
+## Autores/COntactos
+- Kikeszn
+- Github: https://github.com/Kikeszn
