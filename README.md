@@ -1,4 +1,4 @@
-# Sistema-Integral-de-Matriculaci-n-Vehicular
+# Sistema-Integral-de-Matriculacion-Vehicular
 # Sistema Integral de Matriculación Vehicular
 
 [![Language: C](https://img.shields.io/badge/language-C-blue.svg)](https://github.com/Kikeszn/Sistema-Integral-de-Matriculacion-Vehicular)  
