@@ -126,7 +126,7 @@ Sigue las instrucciones en pantalla para navegar y completar cada operación.
 
 ---
 
-## Autores/COntactos
+## Autores/Contactos
 - Enrique Betancourt (Kikeszn)
 - Github: https://github.com/Kikeszn
 
